@@ -69,7 +69,7 @@ public class GUI {
         } else {
             System.out.println("Login ok");
         }
-
+        System.out.println("GIT4");
 
         System.out.println("Podaj hasło:");
         String pass = scanner.nextLine();
