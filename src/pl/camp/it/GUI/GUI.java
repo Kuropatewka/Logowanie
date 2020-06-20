@@ -66,6 +66,8 @@ public class GUI {
             System.out.println("Login zajęty");
             showRegisterMenu();
             return;
+        } else {
+            System.out.println("Login ok");
         }
 
 
